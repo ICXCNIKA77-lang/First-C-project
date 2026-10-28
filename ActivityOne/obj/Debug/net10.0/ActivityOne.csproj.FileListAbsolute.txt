@@ -1,0 +1,14 @@
+C:\Users\Anda Layiti\Documents\ActivityOne\bin\Debug\net10.0\ActivityOne.exe
+C:\Users\Anda Layiti\Documents\ActivityOne\bin\Debug\net10.0\ActivityOne.deps.json
+C:\Users\Anda Layiti\Documents\ActivityOne\bin\Debug\net10.0\ActivityOne.runtimeconfig.json
+C:\Users\Anda Layiti\Documents\ActivityOne\bin\Debug\net10.0\ActivityOne.dll
+C:\Users\Anda Layiti\Documents\ActivityOne\bin\Debug\net10.0\ActivityOne.pdb
+C:\Users\Anda Layiti\Documents\ActivityOne\obj\Debug\net10.0\ActivityOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anda Layiti\Documents\ActivityOne\obj\Debug\net10.0\ActivityOne.AssemblyInfoInputs.cache
+C:\Users\Anda Layiti\Documents\ActivityOne\obj\Debug\net10.0\ActivityOne.AssemblyInfo.cs
+C:\Users\Anda Layiti\Documents\ActivityOne\obj\Debug\net10.0\ActivityOne.csproj.CoreCompileInputs.cache
+C:\Users\Anda Layiti\Documents\ActivityOne\obj\Debug\net10.0\ActivityOne.dll
+C:\Users\Anda Layiti\Documents\ActivityOne\obj\Debug\net10.0\refint\ActivityOne.dll
+C:\Users\Anda Layiti\Documents\ActivityOne\obj\Debug\net10.0\ActivityOne.pdb
+C:\Users\Anda Layiti\Documents\ActivityOne\obj\Debug\net10.0\ActivityOne.genruntimeconfig.cache
+C:\Users\Anda Layiti\Documents\ActivityOne\obj\Debug\net10.0\ref\ActivityOne.dll
